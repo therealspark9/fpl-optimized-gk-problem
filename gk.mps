@@ -1,5 +1,5 @@
 NAME    gk_model                                                             
-ROW                                                                         
+ROWS                                                                         
  N      total_xp_obj                                                         
  L      lineup_or_bench[1]                                                   
  L      lineup_or_bench[2]                                                   
